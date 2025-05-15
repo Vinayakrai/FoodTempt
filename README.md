@@ -49,9 +49,6 @@ git clone https://github.com/Vinayakrai/FoodTempt.git
 - Start the Apache server from your local server control panel.
 - Navigate to `http://localhost/FoodTempt/` in your web browser to access the application.
 
-## 📸 Screenshots
-
-*Include screenshots of the homepage, menu, order page, and reservation page here.*
 
 ## 🤝 Contributing
 
